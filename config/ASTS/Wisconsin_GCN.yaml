@@ -1,0 +1,3 @@
+cal_wdecay: 1
+cal_lr: 0.0005
+hidden_channels_ASTS: 100
